@@ -108,7 +108,7 @@ class Baby(object):
         if self.time == 2:
             print('Baby', self.baby_name, 'is awake. Time for food.')
         if self.time >= 3:
-            print('Baby', self.baby_name, 'is CRYING uncontrollably! Feed the baby!')
+            print('Baby', self.baby_name, 'is CRYING uncontrollably. Feed the baby!')
 
 
 
